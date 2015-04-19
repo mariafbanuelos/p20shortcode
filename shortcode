@@ -1,0 +1,160 @@
+[one]
+
+Dummy
+
+Content[/one]
+
+[bra_border_divider]
+
+[one_third]
+
+Dummy
+
+Content[/one_third] [one_third]
+
+Dummy
+
+Content[/one_third] [one_third_last]
+
+Dummy
+
+Content[/one_third_last]
+
+[bra_border_divider]
+
+[two_thirds]
+
+Dummy
+
+Content[/two_thirds] [one_third_last]
+
+Dummy
+
+Content[/one_third_last]
+
+[bra_border_divider]
+
+[one_third]
+
+Dummy
+
+Content[/one_third] [two_thirds_last]
+
+Dummy
+
+Content[/two_thirds_last]
+
+[bra_border_divider]
+
+[one_half]
+
+Dummy
+
+Content[/one_half] [one_half_last]
+
+Dummy
+
+Content[/one_half_last]
+
+[bra_border_divider]
+
+[one_fourth]
+
+Dummy
+
+Content[/one_fourth] [one_fourth]
+
+Dummy
+
+Content[/one_fourth] [one_fourth]
+
+Dummy
+
+Content[/one_fourth] [one_fourth_last]
+
+Dummy
+
+Content[/one_fourth_last]
+
+[bra_border_divider]
+
+[bra_graph_container][bra_graph Title="Sliding graph" Percent="100"][/bra_graph_container]
+
+[bra_border_divider]
+
+[bra_center_title title="Centered Title Example" subtitle="Add some description here"]
+
+[bra_photostream user="brankic1979" limit="16" social_network="instagram"]
+
+[bra_border_divider]
+
+[bra_social_icons]twitter, http://twitter.com/brankic1979, facebook, https://www.facebook.com/brankic1979themes[/bra_social_icons]
+
+[bra_border_divider]
+
+[bra_google_map location="New York"]
+
+[bra_border_divider]
+
+[bra_toggle collapsable="no" caption="Toggle"]Dummy text[/bra_toggle]
+
+[bra_toggle collapsable="no" caption="Toggle 2"]Dummy text[/bra_toggle]
+
+[bra_border_divider]
+
+[bra_toggle collapsable="yes" caption="Accordion"]Dummy text[/bra_toggle]
+
+[bra_toggle collapsable="yes" caption="Accordion 2"]Dummy text[/bra_toggle]
+
+[bra_border_divider top="30" bottom="30"]
+
+[bra_button text="Button example" url="http://www.brankic1979.com/icons" target="_blank" size="large" style="rounded" color="orange"]
+
+[bra_divider height="60"]
+
+[bra_button text="Button example" url="http://www.brankic1979.com/icons" target="_blank" size="large" style="" color="orange"]
+
+[bra_border_divider]
+
+[bra_icon_boxes_container] [bra_icon_box icon="wp-content/themes/bigbangwp/images/icons/chemestry.png" url="http://www.brankic1979.com" target="_self" caption="Branding"] Lorem ipsum dolor set amet [/bra_icon_box] [bra_icon_box icon="wp-content/themes/bigbangwp/images/icons/img.png" url="http://www.brankic1979.com" target="_self" caption="Logo design"] Lorem ipsum dolor set amet [/bra_icon_box] [bra_icon_box icon="wp-content/themes/bigbangwp/images/icons/pen.png" url="http://www.brankic1979.com" target="_self" caption="Print"] Lorem ipsum dolor set amet [/bra_icon_box] [bra_icon_box icon="" url="" target="_self" caption=""] [/bra_icon_box] [/bra_icon_boxes_container]
+
+[bra_border_divider]
+
+[bra_team_member member_name="John Doe" member_position="Developer" member_social_list="Twitter, http://twitter.com/brankic1979" member_columns="2"]Seded ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.[/bra_team_member]
+
+[bra_team_member member_name="Jane Doe" member_position="Designer" member_img_src="" member_social_list="Facebook, http://facebook.com/https://www.facebook.com/brankic1979themes" member_columns="2"]Seded ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.[/bra_team_member]
+
+[bra_border_divider]
+
+[bra_portfolio title="Portfolio shortcode" cat_id="13" no="4" show_filters="yes" columns="4" shape=""]
+
+[bra_border_divider]
+
+[bra_grid grid_columns="3"] [/bra_grid]
+
+[bra_border_divider]
+
+[bra_list style="colored-counter-list"]
+
+Colored
+List
+Elements
+[/bra_list]
+
+[bra_border_divider]
+
+[bra_highlight style="highlight1"]Highlighted text[/bra_highlight]
+
+[bra_border_divider]
+
+[bra_dropcaps style="dropcap2"]A[/bra_dropcaps]
+
+[bra_border_divider]
+
+[bra_blockquote align="right"] Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[/bra_blockquote]
+
+[bra_border_divider]
+
+[bra_blockquote align="left"]Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[/bra_blockquote]
+
+ 
